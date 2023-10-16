@@ -1,4 +1,5 @@
-## Solution :trollface:
+## Solution 
+:trollface:
 ```java
 import java.util.Scanner;
 
